@@ -10,10 +10,12 @@ I’m a Data Professional with a strong foundation in data engineering and over 
 
 ## Technical Skills
 
-*Languages* Python · SQL · PySpark · Java · C
-*Data Engineering & Cloud* Azure Databricks · Delta Lake · Snowflake · Apache Spark · Airflow · AWS (S3) · GCP · BigQuery · Medallion Architecture
+*Languages & Query* Python · SQL · PySpark · Spark SQL · Java · C
+*Big Data & Processing* Apache Spark · Databricks · Azure Databricks · Delta Lake · Snowflake · Hadoop · Hive · Spark Streaming
+*Cloud & Data Platforms* AWS S3 · AWS EMR · Azure Data Factory · GCP · BigQuery · Cloud Dataflow · GCS
+*Data Engineering* ETL/ELT · Data Pipelines · Incremental Loading · Medallion Architecture · Data Quality · Data Warehousing · Data Lakes · Star Schema · SCD Type 2
 *Analytics & AI/ML* Pandas · NumPy · Power BI · Tableau · TensorFlow · Keras · OpenCV · GenAI (OpenAI, Gemini APIs, LangChain, LangGraph)
-*Orchestration & Tools* MySQL · Git · GitHub · Azure DevOps · Streamlit
+*Orchestration & Tools* Apache Airflow · Apache Kafka · MySQL · Git · GitHub · Docker · CI/CD · Azure DevOps · Jupyter Notebook · Streamlit
 
 ## Featured Projects
 
