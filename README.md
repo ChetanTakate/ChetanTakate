@@ -10,13 +10,17 @@ I’m a Data Professional with a strong foundation in data engineering and over 
 
 ## Technical Skills
 
-*Languages & Query* Python · SQL · PySpark · Spark SQL · Java · C
-*Big Data & Processing* Apache Spark · Databricks · Azure Databricks · Delta Lake · Snowflake · Hadoop · Hive · Spark Streaming
-*Cloud & Data Platforms* AWS S3 · AWS EMR · Azure Data Factory · GCP · BigQuery · Cloud Dataflow · GCS
-*Data Engineering* ETL/ELT · Data Pipelines · Incremental Loading · Medallion Architecture · Data Quality · Data Warehousing · Data Lakes · Star Schema · SCD Type 2
-*Analytics & AI/ML* Pandas · NumPy · Power BI · Tableau · TensorFlow · Keras · OpenCV · GenAI (OpenAI, Gemini APIs, LangChain, LangGraph)
-*Orchestration & Tools* Apache Airflow · Apache Kafka · MySQL · Git · GitHub · Docker · CI/CD · Azure DevOps · Jupyter Notebook · Streamlit
+Languages & Query Python · SQL · PySpark · Spark SQL · Java · C
 
+Big Data & Processing Apache Spark · Databricks · Azure Databricks · Delta Lake · Snowflake · Hadoop · Hive · Spark Streaming
+
+Cloud & Data Platforms AWS S3 · AWS EMR · Azure Data Factory · GCP · BigQuery · Cloud Dataflow · GCS
+
+Data Engineering ETL/ELT · Data Pipelines · Incremental Loading · Medallion Architecture · Data Quality · Data Warehousing · Data Lakes · Star Schema · SCD Type 2
+
+Analytics & AI/ML Pandas · NumPy · Power BI · Tableau · TensorFlow · Keras · OpenCV · GenAI (OpenAI, Gemini APIs, LangChain, LangGraph)
+
+Orchestration & Tools Apache Airflow · Apache Kafka · MySQL · Git · GitHub · Docker · CI/CD · Azure DevOps · Jupyter Notebook · Streamlit
 ## Featured Projects
 
 [Transportation ETL Pipeline](https://github.com/Chetan250903/Databricks-Pyspark-Transportation-ETL)
@@ -54,4 +58,4 @@ CGPA: 8.38
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-takate-007845244/) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chetantakate2509@gmail.com)
