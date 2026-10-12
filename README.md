@@ -6,7 +6,7 @@ I’m a Data Professional with a strong foundation in data engineering and over 
 
 📍 Pune, India
 ⚡ Immediate Joiner & Open to Relocate
-🎯 Open to Junior Data Engineer and Data Engineering opportunities
+🎯 Open to Junior Data Engineer and Fresher Data Engineering opportunities
 
 ## Technical Skills
 
@@ -39,7 +39,7 @@ Python OpenCV TensorFlow Keras Streamlit
 
 ## Professional Highlights
 
-- Engineered ETL pipelines in an Azure Databricks Medallion Architecture processing *130M+ daily records* using incremental loads, deduplication, and SCD Type 2.
+- Supported ETL pipelines in an Azure Databricks Medallion Architecture processing Millions of daily records* using incremental loads, deduplication, and SCD Type 2.
 - Developed Silver-layer data models using PySpark, Spark SQL, and Delta Lake, transforming raw data from *50+ source tables*.
 - Automated data quality and reconciliation checks using Python and PySpark to ensure pipeline reliability and supported CI/CD deployments.
 
@@ -49,11 +49,11 @@ Python OpenCV TensorFlow Keras Streamlit
 - SQL (Advanced) — HackerRank
 - Oracle Cloud Data Management Foundations
 - Data Analytics Essentials — Cisco
-
+- Introduction to dbt — Codecademy
 ## Education
 
 *B.Tech in Electronics and Telecommunications* MIT, Pune
-CGPA: 8.38
+CGPA: 8.38 SGPA: 10
 
 ## Connect With Me
 
